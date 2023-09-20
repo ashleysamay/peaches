@@ -4,7 +4,7 @@ hide_side_table_of_contents: true
 hide_navigation: true
 ---
 
-# Welcome to Doctave
+# Welcome to Doctave!
 
 <!-- All images and other assets need to be in the `_assets` directory -->
 ![Doctave](/_assets/example.png)
